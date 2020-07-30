@@ -35,15 +35,6 @@
 <br />
 <br />
 
----
-
-<a href="https://github.com/alexkasongo/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&repo=job-portal-ionic-angular-app" />
-</a>
-<a href="https://github.com/alexkasongo/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&repo=pwa-reservations-vue-app" />
-</a>
-
 <!-- ### 📺 Latest YouTube Videos -->
 <!-- YOUTUBE:START -->
 <!-- - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions]()
@@ -72,3 +63,12 @@
 [linkedin]: https://linkedin.com/in/alex-kasongo-9781016b/
 [github]: https://www.github.com/alexkasongo
 [repository]: https://github.com/alexkasongo/pwa-reservations-vue-app
+
+---
+
+<a href="https://github.com/alexkasongo/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&repo=job-portal-ionic-angular-app" />
+</a>
+<a href="https://github.com/alexkasongo/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&repo=pwa-reservations-vue-app" />
+</a>
