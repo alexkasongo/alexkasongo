@@ -1,4 +1,4 @@
-### Hi, my name is Alex. I’m a front-end engineer - aka [Aleko][website] 👋
+### Hi, my name is Alex. I’m a front-end engineer - aka [Aleko][website] 👋🏾
 
 ## I am passionate for the web, responsive design, & typography.
 
