@@ -1,7 +1,5 @@
 ![background generator](https://i.imgur.com/XLq6sP2.png)
 
-<br />
-
 ### Hi, my name is Alex. I’m a front-end engineer - aka [Aleko][website] 👋🏾
 
 ## I am passionate for the web, responsive design, & typography.
