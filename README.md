@@ -35,15 +35,6 @@
 <br />
 <br />
 
-<!-- ### 📺 Latest YouTube Videos -->
-<!-- YOUTUBE:START -->
-<!-- - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions]()
-- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!]()
-- [Simple React.js User Login Authentication | Auth0]()
-- [Top 10 VS Code Updates You Don't Know About!! (July 2020)]()
-- [localStorage Dark/Light Mode Theme Toggle (CSS/JavaScript) | UI Design]() -->
-<!-- YOUTUBE:END -->
-
 ---
 
 ### 📕 Latest Blog Posts
@@ -53,9 +44,9 @@
 -   [How I became a self taught-developer without a cs degree in one year: Alex Kasongo's story](https://medium.com/@alexkasongo/how-i-became-a-self-taught-developer-without-a-cs-degree-in-one-year-alex-kasongos-story-100ad3ad724)
 <!-- BLOG-POST-LIST:END -->
 
----
+<!-- ---
 
-<!-- <img align="left" alt="alexkasongo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexkasongo&&show_icons=true&theme=tokyonight&hide=contribs,prs" /> -->
+<img align="left" alt="alexkasongo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexkasongo&&show_icons=true&theme=tokyonight&hide=contribs,prs" /> -->
 
 [website]: https://alexkasongo.com
 [youtube]: https://youtube.com/c/alekobeats
@@ -63,18 +54,3 @@
 [linkedin]: https://linkedin.com/in/alex-kasongo-9781016b/
 [github]: https://www.github.com/alexkasongo
 [repository]: https://github.com/alexkasongo/pwa-reservations-vue-app
-
----
-
-<a href="https://github.com/alexkasongo/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&theme=tokyonight&repo=job-portal-ionic-angular-app" />
-</a>
-<a href="https://github.com/alexkasongo/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&theme=tokyonight&repo=pwa-reservations-vue-app" />
-</a>
-<a href="https://github.com/alexkasongo/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&theme=tokyonight&repo=job-portal-ionic-angular-app" />
-</a>
-<a href="https://github.com/alexkasongo/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&theme=tokyonight&repo=pwa-reservations-vue-app" />
-</a>
