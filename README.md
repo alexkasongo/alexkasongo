@@ -5,6 +5,7 @@
 ## I am passionate for the web, responsive design, & typography.
 
 -   👨🏾‍💻 I’m currently working on a [Laravel + Vue Sass Base][repository]!
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&show_icons=true&theme=tokyonight&repo=github-readme-stats)](https://github.com/alexkasongo/laravel-vue-base)
 -   🌱 I’m currently learning everything 🤣
 -   👯 I’m looking to collaborate with other content creators
 -   🥅 2020 Goals: Contribute more to Open Source projects
