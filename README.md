@@ -55,7 +55,7 @@
 
 ---
 
-<img align="left" alt="alexkasongo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexkasongo&&show_icons=true&theme=tokyonight&count_private=true&hide=contribs,prs" />
+<img align="left" alt="alexkasongo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexkasongo&&show_icons=true&theme=tokyonight&hide=contribs,prs" />
 
 [website]: https://alexkasongo.com
 [youtube]: https://youtube.com/c/alekobeats
