@@ -1,3 +1,5 @@
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&repo=github-readme-stats)](https://github.com/alexkasongo/github-readme-stats)
+
 ### Hi, my name is Alex. I’m a front-end engineer - aka [Aleko][website] 👋🏾
 
 ## I am passionate for the web, responsive design, & typography.
