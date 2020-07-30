@@ -67,8 +67,8 @@
 ---
 
 <a href="https://github.com/alexkasongo/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&repo=job-portal-ionic-angular-app" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&theme=tokyonight&repo=job-portal-ionic-angular-app" />
 </a>
 <a href="https://github.com/alexkasongo/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&repo=pwa-reservations-vue-app" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&theme=tokyonight&repo=pwa-reservations-vue-app" />
 </a>
