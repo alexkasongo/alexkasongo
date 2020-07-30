@@ -6,7 +6,7 @@
 
 -   👨🏾‍💻 I’m currently working on a [Laravel + Vue Sass Base][repository]!
     <br>
-    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&show_icons=true&theme=tokyonight&repo=laravel-vue-base)](https://github.com/alexkasongo/laravel-vue-base)
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&show_icons=true&theme=merko&repo=laravel-vue-base)](https://github.com/alexkasongo/laravel-vue-base)
 -   🌱 I’m currently learning everything 🤣
 -   👯 I’m looking to collaborate with other content creators
 -   🥅 2020 Goals: Contribute more to Open Source projects
