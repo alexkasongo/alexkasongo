@@ -1,5 +1,3 @@
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&repo=github-readme-stats)](https://github.com/alexkasongo/github-readme-stats)
-
 ### Hi, my name is Alex. I’m a front-end engineer - aka [Aleko][website] 👋🏾
 
 ## I am passionate for the web, responsive design, & typography.
@@ -36,6 +34,15 @@
 
 <br />
 <br />
+
+---
+
+<a href="https://github.com/alexkasongo/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&repo=job-portal-ionic-angular-app" />
+</a>
+<a href="https://github.com/alexkasongo/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&repo=pwa-reservations-vue-app" />
+</a>
 
 <!-- ### 📺 Latest YouTube Videos -->
 <!-- YOUTUBE:START -->
