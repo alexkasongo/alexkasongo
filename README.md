@@ -8,9 +8,9 @@
     <br>
     [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&show_icons=true&theme=merko&repo=laravel-vue-base)](https://github.com/alexkasongo/laravel-vue-base)
 -   🌱 I’m currently learning everything 🤣
--   👯 I’m looking to collaborate with other content creators
--   🥅 2020 Goals: Contribute more to Open Source projects
--   ⚡ Fun fact: I love to making music, photography, film and fashion.
+-   🌱 I’m looking to collaborate with other content creators
+-   🌱 2020 Goals: Contribute more to Open Source projects
+-   🌱 Fun fact: I love to making music, photography, film and fashion.
 
 ### Connect with me:
 
