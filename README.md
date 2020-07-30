@@ -1,6 +1,6 @@
 ### Hi, my name is Alex. I’m a front-end engineer - aka [Aleko][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I am passionate for the web, responsive design, & typography.
 
 -   👨🏾‍💻 I’m currently working on a [Vue PWA][repository]!
 -   🌱 I’m currently learning everything 🤣
