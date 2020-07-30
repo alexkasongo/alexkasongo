@@ -4,7 +4,7 @@
 
 ## I am passionate for the web, responsive design, & typography.
 
--   👨🏾‍💻 I’m currently working on a [Vue PWA][repository]!
+-   👨🏾‍💻 I’m currently working on a [Laravel + Vue Sass Base][repository]!
 -   🌱 I’m currently learning everything 🤣
 -   👯 I’m looking to collaborate with other content creators
 -   🥅 2020 Goals: Contribute more to Open Source projects
@@ -55,4 +55,4 @@
 [instagram]: https://instagram.com/alexkasongo
 [linkedin]: https://linkedin.com/in/alex-kasongo-9781016b/
 [github]: https://www.github.com/alexkasongo
-[repository]: https://github.com/alexkasongo/pwa-reservations-vue-app
+[repository]: https://github.com/alexkasongo/laravel-vue-base
