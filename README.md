@@ -1,6 +1,10 @@
+### Hi, I'm Alex.
+
+--
+
 ![background generator](https://i.imgur.com/w8lNcuF.png)
 
-### Hi, my name is Alex. I’m a Front-End Engineer - aka [Aleko][website] 👋🏾 I am passionate for the web, responsive design, & typography.
+### I’m a Front-End Engineer - aka [Aleko][website] 👋🏾 I am passionate for the web, responsive design, & typography.
 
 -   👨🏾‍💻 I’m currently working on a [Scalable Laravel + Vue + Sass Base Project][repository]!
     <br>
