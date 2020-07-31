@@ -4,7 +4,7 @@
 
 <!-- ### I’m a Front-End Engineer, passionate for the web, responsive design, & typography. -->
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/alexkasongo"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&show_icons=true&theme=radical&repo=laravel-vue-base" /></a>
+## Find me around the web 🌎: <a href="https://github.com/sponsors/alexkasongo"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&show_icons=true&theme=merko&repo=laravel-vue-base" /></a>
 
 -   👨🏾‍💻 I’m currently working on a [Scalable Laravel + Vue + Sass Base Project][repository]!
 -   🌱 I’m currently learning everything 🤣
