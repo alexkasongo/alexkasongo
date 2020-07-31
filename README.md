@@ -8,9 +8,9 @@
 
 -   👨🏾‍💻 I’m currently working on a [Scalable Laravel + Vue + Sass Base Project][repository]!
 -   🌱 I’m currently learning everything 🤣
--   🌱 I’m looking to collaborate with other content creators
+<!-- -   🌱 I’m looking to collaborate with other content creators
 -   🌱 2020 Goals: Contribute more to Open Source projects
--   🌱 Fun fact: I love to making music, photography, film and fashion.
+-   🌱 Fun fact: I love to making music, photography, film and fashion. -->
 
 ### Connect with me:
 
