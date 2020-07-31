@@ -2,11 +2,12 @@
 
 <img src="https://i.imgur.com/w8lNcuF.png" alt="banner that says Alex Kasongo - aka aleko alongside a floating head image of Alex">
 
-### I’m a Front-End Engineer, passionate for the web, responsive design, & typography.
+<!-- ### I’m a Front-End Engineer, passionate for the web, responsive design, & typography. -->
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&repo=laravel-vue-base" />
+</a>
 -   👨🏾‍💻 I’m currently working on a [Scalable Laravel + Vue + Sass Base Project][repository]!
-    <br>
-    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&show_icons=true&theme=merko&repo=laravel-vue-base)](https://github.com/alexkasongo/laravel-vue-base)
 -   🌱 I’m currently learning everything 🤣
 -   🌱 I’m looking to collaborate with other content creators
 -   🌱 2020 Goals: Contribute more to Open Source projects
