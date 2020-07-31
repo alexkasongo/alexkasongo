@@ -1,8 +1,6 @@
 [<img align="left" alt="Visual Studio Code" width="100%" src="https://i.imgur.com/w8lNcuF.png" />][website]
 
-<p align="center">
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+<p align="center"></p>
 
 ### Hi, my name is Alex. I’m a Front-End Engineer - aka [Aleko][website] 👋🏾 I am passionate for the web, responsive design, & typography.
 
