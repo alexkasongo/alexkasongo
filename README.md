@@ -1,14 +1,6 @@
 ### Hi, I'm Alex.
 
-/\**
-An example of using a *horizontal rule\*
-
-This text is above the horizontal rule
-
 ---
-
-And this is below
-\*/
 
 ![background generator](https://i.imgur.com/w8lNcuF.png)
 
