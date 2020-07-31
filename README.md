@@ -1,6 +1,6 @@
 # Hi, I'm Alex - aka [Aleko][website] 🖖🏾 <a href="https://www.alexkasongo.com"></a>
 
-<img src="https://i.imgur.com/H7rNJBb.png" alt="banner that says Alex Kasongo - aka aleko alongside a floating head image of Alex">I'm a software engineer who is passionate about the web, creating technology to elevate people, and building community. Some technologies I enjoy working with include VueJS, Angular and Laravel.
+<img src="https://i.imgur.com/H7rNJBb.png" alt="banner that says Alex Kasongo - aka aleko alongside a floating head image of Alex">I'm a software engineer who is passionate about the web, design and typography. Some technologies I enjoy working with include VueJS, Angular and Laravel.
 
 ## Find me around the web 🌎 <a href="https://github.com/alexkasongo/laravel-vue-base"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&show_icons=true&theme=merko&repo=laravel-vue-base" /></a>
 
