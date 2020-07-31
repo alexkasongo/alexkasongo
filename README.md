@@ -1,6 +1,6 @@
 ### Hi, I'm Alex.
 
-<hr size="1px">
+<hr style="height:1px;">
 
 ![background generator](https://i.imgur.com/w8lNcuF.png)
 
