@@ -1,10 +1,8 @@
-### Hi, I'm Alex.
+### Hi, I'm Alex - aka [Aleko][website] 👋🏾
 
-<hr style="height:1px;">
+<img src="https://i.imgur.com/w8lNcuF.png" alt="banner that says Alex Kasongo - aka aleko alongside a floating head image of Alex">
 
-![background generator](https://i.imgur.com/w8lNcuF.png)
-
-### I’m a Front-End Engineer - aka [Aleko][website] 👋🏾 I am passionate for the web, responsive design, & typography.
+### I’m a Front-End Engineer, passionate for the web, responsive design, & typography.
 
 -   👨🏾‍💻 I’m currently working on a [Scalable Laravel + Vue + Sass Base Project][repository]!
     <br>
