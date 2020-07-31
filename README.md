@@ -1,6 +1,10 @@
 ![background generator](https://i.imgur.com/w8lNcuF.png)[website]
 
-### Hi, my name is Alex. I’m a Front-End Engineer - aka [Aleko][website] 👋🏾 I am passionate for the web, responsive design, & typography.
+<p align="center">
+<a href="https://packagist.org/packages/laravel/framework">Hi, my name is Alex. I’m a Front-End Engineer - aka [Aleko][website] 👋🏾 I am passionate for the web, responsive design, & typography.</a>
+</p>
+
+<!-- ### Hi, my name is Alex. I’m a Front-End Engineer - aka [Aleko][website] 👋🏾 I am passionate for the web, responsive design, & typography. -->
 
 -   👨🏾‍💻 I’m currently working on a [Scalable Laravel + Vue + Sass Base Project][repository]!
     <br>
