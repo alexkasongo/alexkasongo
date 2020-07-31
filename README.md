@@ -1,7 +1,6 @@
 [<img align="left" alt="Visual Studio Code" width="100%" src="https://i.imgur.com/w8lNcuF.png" />][website]
 
-<br />
-<br />
+---
 
 ### Hi, my name is Alex. I’m a Front-End Engineer - aka [Aleko][website] 👋🏾 I am passionate for the web, responsive design, & typography.
 
