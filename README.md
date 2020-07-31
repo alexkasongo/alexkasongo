@@ -4,9 +4,8 @@
 
 <!-- ### I’m a Front-End Engineer, passionate for the web, responsive design, & typography. -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&repo=laravel-vue-base" />
-</a>
+## Find me around the web 🌎: <a href="https://github.com/sponsors/alexkasongo"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&repo=laravel-vue-base" /></a>
+
 -   👨🏾‍💻 I’m currently working on a [Scalable Laravel + Vue + Sass Base Project][repository]!
 -   🌱 I’m currently learning everything 🤣
 -   🌱 I’m looking to collaborate with other content creators
