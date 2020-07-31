@@ -6,8 +6,10 @@
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/alexkasongo"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&show_icons=true&theme=merko&repo=laravel-vue-base" /></a>
 
--   👨🏾‍💻 I’m currently working on a [Scalable Laravel + Vue + Sass Base Project][repository]!
--   🌱 I’m currently learning everything 🤣
+👨🏾‍💻 I’m currently working on a [Scalable Laravel + Vue + Sass Base Project][repository]!
+<br>
+🌱 I’m currently learning everything 🤣
+
 <!-- -   🌱 I’m looking to collaborate with other content creators
 -   🌱 2020 Goals: Contribute more to Open Source projects
 -   🌱 Fun fact: I love to making music, photography, film and fashion. -->
