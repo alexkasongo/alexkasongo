@@ -1,7 +1,7 @@
-![background generator](https://i.imgur.com/w8lNcuF.png)[website]
+![background generator](https://i.imgur.com/w8lNcuF.png)
 
 <p align="center">
-<a href="https://packagist.org/packages/laravel/framework">Hi, my name is Alex. I’m a Front-End Engineer - aka [Aleko][website] 👋🏾 I am passionate for the web, responsive design, & typography.</a>
+<a color="black" href="https://packagist.org/packages/laravel/framework">Hi, my name is Alex. I’m a Front-End Engineer - aka [Aleko][website] 👋🏾 I am passionate for the web, responsive design, & typography.</a>
 </p>
 
 <!-- ### Hi, my name is Alex. I’m a Front-End Engineer - aka [Aleko][website] 👋🏾 I am passionate for the web, responsive design, & typography. -->
