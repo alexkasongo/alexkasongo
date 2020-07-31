@@ -1,6 +1,6 @@
 ### Hi, I'm Alex.
 
----
+<hr>
 
 ![background generator](https://i.imgur.com/w8lNcuF.png)
 
