@@ -1,6 +1,4 @@
-![background generator](https://i.imgur.com/w8lNcuF.png)
-
-<!-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/w8lNcuF.png" />][website] -->
+![background generator](https://i.imgur.com/w8lNcuF.png)[website]
 
 ### Hi, my name is Alex. I’m a Front-End Engineer - aka [Aleko][website] 👋🏾 I am passionate for the web, responsive design, & typography.
 
