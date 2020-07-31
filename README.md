@@ -7,8 +7,9 @@
 👨🏾‍💻 I’m currently working on a [Scalable Laravel + Vue + Sass Base Project][repository]! 🌱 and learning everything 🤣
 
 <br>
+<br>
 
-## Connect with me: : <a href="https://medium.com/@alexkasongo/how-i-became-a-self-taught-developer-without-a-cs-degree-in-one-year-alex-kasongos-story-100ad3ad724"></a>
+## Connect with me: <a href="https://medium.com/@alexkasongo/how-i-became-a-self-taught-developer-without-a-cs-degree-in-one-year-alex-kasongos-story-100ad3ad724"></a>
 
 [<img align="left" alt="alexkasongo.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="aleko | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
