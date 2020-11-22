@@ -2,9 +2,9 @@
 
 <img src="https://i.imgur.com/8Szbhyg.png" alt="banner that says Alex Kasongo - aka aleko alongside a floating head image of Alex">I'm a software engineer who is passionate about the web, design and architecture. Some technologies I enjoy working with include Nuxtjs, Prismic and Firebase.
 
-## Find me around the web 🌎 <a href="https://github.com/alexkasongo/laravel-vue-base"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&show_icons=true&theme=merko&repo=laravel-vue-base" /></a>
+<!-- ## Find me around the web 🌎 <a href="https://github.com/alexkasongo/laravel-vue-base"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&show_icons=true&theme=merko&repo=laravel-vue-base" /></a> -->
 
-👨🏾‍💻 I’m currently working on a scheduling and management Nuxt SSR PWA! 🌱 and learning everything 🤣
+<!-- 👨🏾‍💻 I’m currently working on a scheduling and management Nuxt SSR PWA! 🌱 and learning everything 🤣 -->
 <!-- 👨🏾‍💻 I’m currently working on a [Scheduling and management Nuxt PWA ][repository]! 🌱 and learning everything 🤣 -->
 
 <br>
