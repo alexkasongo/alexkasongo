@@ -7,8 +7,8 @@
 <!-- 👨🏾‍💻 I’m currently working on a scheduling and management Nuxt SSR PWA! 🌱 and learning everything 🤣 -->
 <!-- 👨🏾‍💻 I’m currently working on a [Scheduling and management Nuxt PWA ][repository]! 🌱 and learning everything 🤣 -->
 
-<br>
-<br>
+<!-- <br>
+<br> -->
 
 ## Connect with me: <a href="https://medium.com/@alexkasongo/how-i-became-a-self-taught-developer-without-a-cs-degree-in-one-year-alex-kasongos-story-100ad3ad724"></a>
 
