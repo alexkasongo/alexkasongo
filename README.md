@@ -1,6 +1,8 @@
 # Hi, I'm Alex - aka [Aleko][website] 🖖🏾 <a href="https://www.alexkasongo.com"></a>
 
-<img src="https://i.imgur.com/8Szbhyg.png" alt="banner that says Alex Kasongo - aka aleko alongside a floating head image of Alex">I'm a software engineer who is passionate about the web, design and architecture. Some technologies I enjoy working with include Nuxtjs, Prismic and Firebase.
+<!-- <img src="https://i.imgur.com/8Szbhyg.png" alt="banner that says Alex Kasongo - aka aleko alongside a floating head image of Alex"> -->
+
+Web Developer passionate about creating powerful responsive emails and landing pages for marketing campaigns and newsletters by leveraging strong HTML and CSS skills coupled with significant experience with Front-End development and client-side libraries such as Nuxt.js, Vue.js and React.
 
 <!-- ## Find me around the web 🌎 <a href="https://github.com/alexkasongo/laravel-vue-base"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkasongo&show_icons=true&theme=merko&repo=laravel-vue-base" /></a> -->
 
@@ -23,7 +25,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
--   [Firebase + Nuxt, Role Based Authentication & Authorization](https://alexkasongo.medium.com/firebase-nuxt-role-based-authentication-authorization-a2eea9a1a586)
+- [Firebase + Nuxt, Role Based Authentication & Authorization](https://alexkasongo.medium.com/firebase-nuxt-role-based-authentication-authorization-a2eea9a1a586)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://alexkasongo.com
